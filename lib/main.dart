@@ -11,6 +11,15 @@ class appphone extends StatefulWidget {
 
 class _appphoneState extends State<appphone> {
   int count= 0;
+  /*
+
+  00
+  0
+  0
+  0
+  00
+
+  */
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
